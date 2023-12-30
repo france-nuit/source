@@ -1,6 +1,8 @@
 ---
 title: >-
   santé-publique-france-et-libération-attribuent-la-surmortalité-vaccinale-au-canard-a03024b87719
+categories:
+  - presse
 date: 2023-12-29 12:56:48
 tags:
 ---

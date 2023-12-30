@@ -1,5 +1,7 @@
 ---
 title: post2
+categories:
+  - presse
 date: 2023-12-29 15:25:36
 tags:
 ---
