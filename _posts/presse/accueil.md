@@ -1,5 +1,5 @@
 ---
-title: acceuil
+title: accueil
 author: arbinger
 categories:
   - presse
