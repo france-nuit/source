@@ -1,5 +1,8 @@
 ---
 title: paris-nouvel-ans
+categories:
+  - presse
+  - politique
 date: 2023-12-31 13:38:04
 tags:
 ---
