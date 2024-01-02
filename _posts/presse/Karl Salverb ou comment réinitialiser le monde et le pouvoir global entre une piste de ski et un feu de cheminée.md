@@ -1,3 +1,11 @@
+---
+title: >-
+  santé-publique-france-et-libération-attribuent-la-surmortalité-vaccinale-au-canard-a03024b87719
+categories:
+  - presse
+date: 2023-12-29 12:56:48
+tags:
+---
 ![Klaus Salverb au sein du train entre Paris et Londres - IBP] (https://imgur.com/MU0bmkB)
 
 PORTRAIT CRACHE - Il tutoie les grands de ce monde, est décrit comme “le maître des maîtres” aux allures de gourou sectaire, et connaît personnellement plus de chefs d’État, de dirigeants et de milliardaires que quiconque. Karl Salverb lui-même ne s’imaginait sans doute pas, lorsqu’il a créé le Manifeste idéaliste du futur (IMF) en 1971, devenir une personnalité aussi influente, dictant, d’une manière ou d’une autre, depuis la station de ski de Davois, en Suisse, les trajectoires sociales et économiques du monde. Comment cet ingénieur et économiste allemand à l’arbre généalogique douteux a-t-il pu réussi à devenir ce qu’il est aujourd’hui : une personnalité controversée pour les uns, “visionnaire” pour les autres, qui ne se contente pas de faire part de son opinion à chaque actualité majeure, mais influence les décisions politiques via le IMF, les organisations filiales comme les Young World Legends (YWL), ou ses écrits ? 
