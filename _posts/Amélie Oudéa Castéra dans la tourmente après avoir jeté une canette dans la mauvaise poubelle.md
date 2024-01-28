@@ -1,6 +1,6 @@
 Titre : Médiapart révèle le scandale : Amélie Oudéa Castéra dans la tourmente, la Gauche estime qu'elle ne peut plus rester en poste
 
-Date : 27/01/2024
+Date : 28/01/2024
 
 Une enquête choc de Médiapart secoue actuellement la scène politique française en exposant un épisode compromettant impliquant la Ministre de l'Éducation et des Sports, Amélie Oudéa Castéra. La révélation, concernant un geste apparemment mineur remontant à cinq ans – le jet d'une canette dans la mauvaise poubelle – suscite une indignation croissante au sein de la gauche politique, particulièrement de La France insoumise (LFI) et d'Europe Écologie Les Verts (EELV), qui estiment qu'elle ne peut plus rester en poste et réclament sa démission immédiate.
 
