@@ -1,3 +1,14 @@
+---
+title: >-
+  Amélie Oudéa Castéra dans la tourmente après avoir jeté une canette dans la
+  mauvaise poubelle
+author: la plume
+categories:
+  - presse
+  - politique
+date: 2024-01-28 11:55:56
+tags:
+---
 Amélie Oudéa Castéra dans la tourmente après la révélation du scandale des canettes par Médiapart, la Gauche réclame sa démission
 
 Date : 28/01/2024
