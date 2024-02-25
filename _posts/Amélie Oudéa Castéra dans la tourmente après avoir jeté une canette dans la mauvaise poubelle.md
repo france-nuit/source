@@ -1,4 +1,4 @@
-Titre : Médiapart révèle le scandale : Amélie Oudéa Castéra dans la tourmente, la Gauche estime qu'elle ne peut plus rester en poste
+Amélie Oudéa Castéra dans la tourmente après la révélation du scandale des canettes par Médiapart, la Gauche réclame sa démission
 
 Date : 28/01/2024
 
@@ -11,4 +11,5 @@ Face à ces accusations, le silence d'Amélie Oudéa Castéra ne fait qu'accentu
 Ce scandale met en lumière la nécessité d'une prise de décision rapide et claire de la part d'Amélie Oudéa Castéra. La gauche politique, capitalisant sur cette situation, considère que sa démission est inévitable pour restaurer la confiance dans l'action gouvernementale. Le sort de la ministre semble donc pendre à un fil, dans un contexte où la moindre hésitation pourrait avoir des conséquences désastreuses pour sa carrière politique.
 
 
-La plume du Corbeau avec ChatGPT
+
+La plume du Corbeau
