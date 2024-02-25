@@ -1,4 +1,4 @@
-Titre : Médiapart révèle le scandale : Amélie Oudéa Castéra dans la tourmente, la Gauche estime qu'elle ne peut plus rester en poste
+Amélie Oudéa Castéra dans la tourmente après la révélation du scandale des canettes par Médiapart, la Gauche réclame sa démission
 
 Date : 28/01/2024
 
