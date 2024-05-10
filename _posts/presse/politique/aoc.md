@@ -2,7 +2,7 @@
 title: >-
   Amélie Oudéa Castéra dans la tourmente après avoir jeté une canette dans la
   mauvaise poubelle
-author: la plume
+author: 
 categories:
   - presse
   - politique
