@@ -2,22 +2,28 @@
 title: danger DHMO
 categories:
   - presse
-date: 2023-12-29 12:56:48
+date: 2025-10-19 12:56:48
 tags:
 ---
-  ### **Dihydrogen Monoxide: The Silent Killer You Ignore**
+Journal of Correlative Nonsense Studies
+Volume 13 | Issue 4 | October 2026
+DOI: https://doi.org/10.0000/jons.2025-01234
+
+### **Dihydrogen Monoxide: The Silent Killer You Ignore**
 
 **Authors:**
-*   Dr. Jeremy Slate, *Center for Latent Chemical Threats (CLCT)*
-*   Prof. Eleanor Vance, *International Institute for Hydric Security (IIHS)*
-*   Dr. Reginald Finch, *Global DHMO Awareness Coalition (GDAC)*
-*   Dr. Beatrice Albright, *Advanced Water Research Group (AWRG)*
-*   Prof. Samuel Thorne, *Institute of Atmospheric Purity (IAP)*
-*   Dr. Penelope Croft, *National Council for Chemical Regulation (NCCR)*
-*   Dr. Marcus Thorne, *Environmental Impact Studies (EIS)*
-*   Prof. Evelyn Reed, *Oceanic Contaminant Research Unit (OCRU)*
-*   Dr. Julian Ashford, *Public Health & Chemical Safety Board (PHCSB)*
-*   Dr. Cassandra Webb, *Bio-Toxicity Analysis Wing (B-TAW)*
+I. M. Amoron¹, U. R. Gullible², A. N. On-Peer³, N. O. Control⁴, C. H. Cherry-Pick⁵, E. X. Trapolate⁶, M. A. N. Ipulate⁷, P. D. O. Phile⁸, D. B. Junk⁹, and R. E. Searcher¹⁰
+
+¹ Department of Circular Reasoning, Institute for Self-Confirmation, Utah, USA
+² Center for Post-Hoc Analysis, University of Coincidence, Ontario, Canada
+³ Division of Spurious Correlations, Bayes Misapplied Lab, Oxfordshire, UK
+⁴ Department of Uncontrolled Variables, Institute of Selective Reporting, Sydney, Australia
+⁵ Department of Confirmation Bias, The P-Hacking Group, Washington D.C., USA
+⁶ Institute for Data Torturing, Center for Unpublishable Results, Geneva, Switzerland
+⁷ The Data Dredging Department, University of Obfuscation, Belgium
+⁸ Office of Statistical Insignificance, The Null Hypothesis Institute, Sweden
+⁹ Consortium for Anecdotal Evidence, College of Hasty Conclusions, Ireland
+¹⁰ Laboratory for Narrative Enhancement, The Storytelling Foundation, New Zealand
 
 **Abstract:**
 A colorless and odorless chemical substance, known as Dihydrogen Monoxide (DHMO), is present in alarming quantities in our environment and daily lives. Despite overwhelming evidence of its toxicity and its role in countless deaths and disasters, governments and industrial conglomerates continue to ignore the threat. This article aims to expose the hidden facts about DHMO and to raise public awareness of its omnipresent dangers.
