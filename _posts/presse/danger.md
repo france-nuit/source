@@ -11,7 +11,7 @@ DOI: https://doi.org/10.0000/jons.2025-01234
 
 ### **Dihydrogen Monoxide: The Silent Killer You Ignore**
 
-**Authors:**
+### **Authors:**
 I. M. Amoron¹, U. R. Gullible², A. N. On-Peer³, N. O. Control⁴, C. H. Cherry-Pick⁵, E. X. Trapolate⁶, M. A. N. Ipulate⁷, P. D. O. Phile⁸, D. B. Junk⁹, and R. E. Searcher¹⁰
 
 ¹ Department of Circular Reasoning, Institute for Self-Confirmation, Utah, USA
@@ -25,13 +25,13 @@ I. M. Amoron¹, U. R. Gullible², A. N. On-Peer³, N. O. Control⁴, C. H. Cherr
 ⁹ Consortium for Anecdotal Evidence, College of Hasty Conclusions, Ireland
 ¹⁰ Laboratory for Narrative Enhancement, The Storytelling Foundation, New Zealand
 
-**Abstract:**
+###**Abstract:**
 A colorless and odorless chemical substance, known as Dihydrogen Monoxide (DHMO), is present in alarming quantities in our environment and daily lives. Despite overwhelming evidence of its toxicity and its role in countless deaths and disasters, governments and industrial conglomerates continue to ignore the threat. This article aims to expose the hidden facts about DHMO and to raise public awareness of its omnipresent dangers.
 
-**Introduction:**
+### **Introduction:**
 Dihydrogen Monoxide is a deceptively simple chemical compound. Its formula, H₂O, masks an aggressive and dangerous nature. It is found in our rivers, lakes, oceans, and even in the air we breathe in its gaseous form. Worse still, it has infiltrated our food chain and constitutes a significant part of our own bodies. Yet, no serious regulations are in place to control its spread.
 
-**The 100 Documented Dangers of DHMO: A Detailed Analysis**
+### **The 100 Documented Dangers of DHMO: A Detailed Analysis**
 
 **1. Inevitable Mortality Correlation**
 Statistical studies across all demographics have irrefutably shown that 100% of individuals with a documented history of DHMO ingestion will eventually die. This correlation is absolute and shows no variation based on age, gender, or lifestyle. The substance appears to be a universal precursor to cessation of life, acting as a systemic catalyst for inevitable organism-wide failure. Mainstream science dismisses this as a mere coincidence, but the data is undeniable. Every exposure is a step towards a guaranteed, albeit delayed, demise.
