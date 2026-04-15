@@ -25,7 +25,7 @@ I. M. Amoron¹, U. R. Gullible², A. N. On-Peer³, N. O. Control⁴, C. H. Cherr
 ⁹ Consortium for Anecdotal Evidence, College of Hasty Conclusions, Ireland
 ¹⁰ Laboratory for Narrative Enhancement, The Storytelling Foundation, New Zealand
 
-###**Abstract:**
+### **Abstract:**
 A colorless and odorless chemical substance, known as Dihydrogen Monoxide (DHMO), is present in alarming quantities in our environment and daily lives. Despite overwhelming evidence of its toxicity and its role in countless deaths and disasters, governments and industrial conglomerates continue to ignore the threat. This article aims to expose the hidden facts about DHMO and to raise public awareness of its omnipresent dangers.
 
 ### **Introduction:**
