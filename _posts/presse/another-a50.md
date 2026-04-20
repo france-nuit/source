@@ -4,7 +4,8 @@ categories:
   - presse
 date: 2024-02-25 17:12:23
 tags:
----# La Russie Déplore la Perte de Son Deuxième Avion AWACS A-50 en Mer d'Azov : "Encore un Casse-croûte pour les Corbeaux!"
+---
+# La Russie Déplore la Perte de Son Deuxième Avion AWACS A-50 en Mer d'Azov : "Encore un Casse-croûte pour les Corbeaux!"
 
 Moscou - Dans une triste nouvelle qui a secoué les cercles militaires russes, la Russie a annoncé aujourd'hui la perte de son deuxième avion de surveillance et de contrôle aéroportés AWACS A-50 en Mer d'Azov, abattu par la défense anti-aérienne ukrainienne. Surnommé affectueusement "l'œil dans le ciel", cet avion était censé être le joyau de la couronne de la défense aérienne russe, mais semble plutôt être devenu le casse-croûte préféré des corbeaux.
 
